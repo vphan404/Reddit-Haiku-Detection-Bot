@@ -130,3 +130,6 @@ dmypy.json
 
 # Initialization File for Reddit API Access Token
 praw.ini
+
+# VScode adminsitration
+.vscode
