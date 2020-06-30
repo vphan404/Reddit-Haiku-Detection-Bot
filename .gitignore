@@ -133,3 +133,6 @@ praw.ini
 
 # VScode administration
 .vscode
+
+# Text file of submissions
+visited_submission.txt
